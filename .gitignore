@@ -1,0 +1,8 @@
+build
+data
+dist
+gui_creator
+venv
+main.spec
+.idea
+__pycache__/
